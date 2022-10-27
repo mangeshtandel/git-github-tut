@@ -1,0 +1,21 @@
+#!/bin/bash
+#Start of for loop
+for a in 1 2 3 4 5 6 7 8 9 10
+do
+	# if a  is equal to 5 sleep the loop
+	if [ $a ==5 ]
+	then
+		sleep 10
+	fi
+	# Print the value
+	echo "Iteration no $a"
+done
+
+#!/bin/bash
+for i in {2..20..2}
+	do
+		echo "table for 2 : $i"
+	done
+
+pk00789764@techmahindra.com 
+NK00601964@techmahindra.com

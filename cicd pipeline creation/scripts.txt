@@ -16,6 +16,3 @@ for i in {2..20..2}
 	do
 		echo "table for 2 : $i"
 	done
-
-pk00789764@techmahindra.com 
-NK00601964@techmahindra.com

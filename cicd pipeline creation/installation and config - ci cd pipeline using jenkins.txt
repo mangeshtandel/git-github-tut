@@ -40,7 +40,3 @@ sudo docker rm -f $(sudo docker ps -a -q)
 sudo docker build /home/ubuntu/jenkins/workspace/pushprod/ -t website
 sudo docker run -it -p 80:80 -d website
 
-code-repo1
-tfadmin1 
-AKIAYE2ZVIY7OKUMYL4G
-jKAFGTV/TyoV4/XKdCWwcx0KaV8DO6VrX24ZY2rj
